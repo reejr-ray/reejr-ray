@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @reejr-ray
-- 👀 I’m interested in Database architecture, Improving my effectiveness at Python & C++ and any tech involving sound or music!
-- 🌱 I’m currently learning Integration between SQL and AWS.
+- 👋 Hi, I’m Ray
+- 👀 I’m currently interested in understanding the basis of .NET 7 and C# 11. I have a few ideas for applications that could really take off with .NET as its base!
+- 🌱 I’m currently learning .NET 7 and C# 11.
 - 💞️ I’m looking to collaborate on Web Projects, Database Projects, AI projects, etc. 
 - 📫 The best way to reach me is by:
      email - ray.reesjr@comcast.net
